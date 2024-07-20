@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spring.jap.defer-datasource.intialization",
+  "type": "java.lang.String",
+  "description": "A description for 'spring.jap.defer-datasource.intialization'"
+}]}
